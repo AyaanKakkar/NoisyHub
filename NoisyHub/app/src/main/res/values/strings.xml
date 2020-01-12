@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">NOISY HUB</string>
+    <string name="command_prompt">Choose a command set</string>
+    <string name="SWITCH1">SWITCH 1</string>
+    <string name="SWITCH2">SWITCH 2</string>
+    <string name="SWITCH3">SWITCH 3</string>
+    <string name="SWITCH4">SWITCH 4</string>
+    <string-array name="commands_array">
+        <item>Lumos/Nox</item>
+        <item>Light/Dark</item>
+        <item>Charge/Drain</item>
+        <item>Hot/Cold</item>
+        <item>Steam/Nose</item>
+        <item>Black/Yellow</item>
+        <item>Hello/GoodBye</item>
+        <item>ON/OFF</item>
+    </string-array>
+
+</resources>
